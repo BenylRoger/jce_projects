@@ -6,6 +6,7 @@ from langchain.prompts import PromptTemplate
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 #llm=ChatOpenAI(model="gpt-4o", api_key=OPENAI_API_KEY)
+#test checkin
 llm = Ollama(model="bigllama/mistralv01-7b:latest")
 prompt_template = PromptTemplate(
     input_variables=["city","month","language","budget"],
