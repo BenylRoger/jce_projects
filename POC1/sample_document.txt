@@ -1,0 +1,37 @@
+Benyl Roger J, based in Chennai, Tamil Nadu, India, is a versatile and accomplished software 
+professional with extensive experience in software development, leadership, and digital 
+transformation. Fluent in English and Tamil, Benyl has earned a Post Graduate Diploma in 
+Computer Applications from Annamalai University (2021–2022) and a Bachelor of 
+Engineering in Computer Science from Sree Sastha Institute of Engineering and Technology 
+(2008–2012). His certifications include Azure Fundamentals (Microsoft Certified: AZ-900) 
+and Practitioner of Human-Centered Design (LUMA Institute). 
+Currently serving as a Development Lead at Standard Chartered since January 2020, Benyl 
+has driven impactful projects in automation and enterprise technology. His achievements 
+include creating Jira workflows, leading 150 Agile sprints, and delivering innovative portals 
+that dramatically reduced processing times, such as a self-service portal for property 
+management and an SMTP request portal. He has engineered critical solutions like a 
+recertification portal ensuring 100% compliance, a license management portal for managing 
+over 500,000 licenses, and a GET API for business intelligence that reduced data retrieval 
+time by 70%. 
+Before Standard Chartered, Benyl worked at Encora in Malaysia, where he developed self-
+service portals handling over 1,000 daily requests, automated deployment pipelines for 100+ 
+components, and created Windows applications to enhance system reliability. At ADP, he 
+transformed monolithic applications into microservices and developed Power BI dashboards 
+for payroll processing. His role at Verizon involved building a cost-effective collaboration 
+tool that saved $450K annually and integrating Google Workspace apps to improve 
+productivity. 
+At Infosys, Benyl contributed to the next-gen volume licensing portal for Microsoft, 
+enhancing license management and release quality. His tenure at CGI involved designing 
+centralized configuration and robust security modules for asset and resource management 
+systems, optimizing operations and safeguarding sensitive data. 
+Benyl's technical proficiency spans .NET technologies (including .NET Core and ASP.NET), 
+JavaScript, React, Angular, Microsoft SQL Server, Microsoft Azure, AWS, Terraform, 
+Ansible, Docker, Power BI, ElasticSearch, and programming languages like C# and Python. 
+He has a proven track record in Agile and Scrum methodologies and extensive project 
+management experience using tools like Jira and Trello. 
+As a passionate educator and volunteer, Benyl has delivered technical training on 
+programming languages, the ELK stack, and cloud services to diverse audiences, including 
+students and professionals. He has conducted over 10,000 mock interviews, offering 
+invaluable insights into interview preparation and career guidance. His commitment to 
+mentoring and empowering others underscores his dynamic career and community 
+contributions.
